@@ -121,12 +121,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -141,6 +141,7 @@
   },
   "active": "16192816737001e1",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-11-21 19.41.03.excalidraw.md",
     "Excalidraw/Drawing 2023-11-21 19.40.14.excalidraw.md",
     "Excalidraw"
   ]
