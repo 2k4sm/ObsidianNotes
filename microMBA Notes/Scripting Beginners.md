@@ -4,4 +4,4 @@ Five Step Approach:
 		- Possible talking points about this topic ?
 			- what if Questions ?
 	- Outline
-		-  
+	- Research
