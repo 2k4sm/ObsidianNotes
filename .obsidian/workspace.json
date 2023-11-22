@@ -56,14 +56,6 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "e659ca38ce040da9",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ]
       }
@@ -111,6 +103,7 @@
   },
   "active": "16192816737001e1",
   "lastOpenFiles": [
+    "README.md",
     "microMBA Notes/Scripting Beginners.md",
     "Excalidraw/Drawing 2023-11-21 19.41.03.excalidraw.md",
     "Excalidraw/Drawing 2023-11-21 19.40.14.excalidraw.md",
