@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9681011f7e1006a3",
@@ -150,8 +149,9 @@
   },
   "active": "16192816737001e1",
   "lastOpenFiles": [
-    "microMBA Notes/Scripting Beginners.md",
+    "Code/Bit Man -3.md",
     "Code/Bit Man -2.md",
+    "microMBA Notes/Scripting Beginners.md",
     "README.md",
     "Excalidraw/Drawing 2023-11-21 19.41.03.excalidraw.md",
     "Excalidraw/Drawing 2023-11-21 19.40.14.excalidraw.md",
