@@ -78,6 +78,7 @@ Answer
 
 
 ```
+//java
 public class SmallestXOR {
 
     public static void main(String[] args) {
@@ -121,3 +122,14 @@ public class SmallestXOR {
 >After the iteration is complete, the code calculates the XOR of the numbers in each group and stores the results in num1 and num2. Finally, the code returns a new array containing num1 and num2, with num1 being the smaller of the two numbers.
 
 >This code example illustrates how the approach described above can be used to find the smallest XOR value between two or more numbers. The approach is simple, efficient, and can be used to solve a variety of problems involving XOR.
+
+## Search for a range
+
+>To find the leftmost and rightmost indices of a given integer B in a sorted array A, you can use a modified binary search algorithm. The idea is to perform two binary searches separately:
+
+>Leftmost Index Search: Find the leftmost occurrence of B by adjusting the binary search when A[mid] is equal to B. If A[mid] is equal to B, update the end index to mid - 1 to search on the left side. If A[mid] is less than B, update the start index to mid + 1 to search on the right side.
+
+>Rightmost Index Search: Find the rightmost occurrence of B by adjusting the binary search when A[mid] is equal to B. If A[mid] is equal to B, update the start index to mid + 1 to search on the right side. If A[mid] is greater than B, update the end index to mid - 1 to search on the left side.
+
+
+
